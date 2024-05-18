@@ -1,2 +1,2 @@
-# To-do-list-BT-
-to do list app
+# To-do-list-
+This will allow user to add tasks and delete the tasks
